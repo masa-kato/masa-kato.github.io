@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Creative Computations"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Masa Kato"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Masa Kato"
+  avatar           : /assets/images/bio-photo.jpg
+  bio              : "Data Scientist"
+  location         : "Chicago"
   email            :
   uri              :
   bitbucket        :
@@ -89,18 +89,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "masa-kato"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "masa-kato"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "masakato0922"
   vine             :
   weibo            :
   xing             :
